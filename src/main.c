@@ -1,4 +1,4 @@
-#include "core.h"
+#include "mal.h"
 
 #include <stdio.h>
 #include <stdint.h>
